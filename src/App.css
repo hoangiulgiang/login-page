@@ -20,6 +20,16 @@
   text-align: center;
 }
 
+.forgot-password-container {
+  width: 350px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
 .login-title {
   font-size: 24px;
   font-weight: bold;
